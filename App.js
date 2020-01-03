@@ -83,8 +83,9 @@ const styles = StyleSheet.create({
   },
   title: {
     color: 'white',
-    fontSize: 20,
+    fontSize: 30,
     padding: 5,
+    fontFamily: 'Jokerman-Regular',
     textAlign: 'center',
   },
   searchBox: {

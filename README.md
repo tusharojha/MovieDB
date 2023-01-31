@@ -9,6 +9,7 @@ It's using the following technologies
 - CSS
 - HTML
 - Rest APIs
+- TMDB movie APIs
 
 # Highlights 
 1). It uses horizontal flatlist to show data on the screen.<br />

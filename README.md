@@ -3,6 +3,13 @@ The Movie DB: movie data fetcher in React Native
 
 Movie DB app uses fetch to get trending movies data from TMDB apis and displays in a well managed manner inside the app.
 
+It's using the following technologies:
+
+- React Native
+- CSS
+- HTML
+- Rest APIs
+
 # Highlights 
 1). It uses horizontal flatlist to show data on the screen.<br />
 2). Custom Font can be applied<br />

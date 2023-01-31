@@ -11,13 +11,13 @@ Movie DB app uses fetch to get trending movies data from TMDB apis and displays 
 5). Dark theme takes it easy on your eyes and phone's battery<br />
 
 # How to Install
-1). Clone the repository on your machine<br />
-2). Inside the Project Folder (MovieDB) open the terminal/cmd/git bash.<br />
-3). use command "npm install".<br />
-4). use command "react-native run-android".<br />
+- Clone the repository on your machine<br />
+- Inside the Project Folder (MovieDB) open the terminal/cmd/git bash.<br />
+- use command "npm install".<br />
+- use command "react-native run-android".<br />
 
 ## Note
-Make sure while running the code either android/ios emulator is running or physical device is connected with usb debugging already turned on.
+Make sure while running the code either Android/iOS emulator is running or physical device is connected with usb debugging already turned on.
 
 ## Screen Shots
 

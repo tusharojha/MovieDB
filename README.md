@@ -32,4 +32,4 @@ Make sure while running the code either Android/iOS emulator is running or physi
 ![Home Screen](https://github.com/tusharojha/MovieDB/blob/master/screenshots/1.PNG)
 ![Details Screen](https://github.com/tusharojha/MovieDB/blob/master/screenshots/2.PNG)
 
-### Designed & Developed by Tushar Ojha
+### Designed & Developed by Tushar Ojha.

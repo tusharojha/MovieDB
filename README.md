@@ -1,4 +1,8 @@
 # MovieDB
+Ever wanted to have all the latest and trending movies at your fingertips..?
+Congo now it is possible with my new project.
+yes now you can watch whatever you want, from latest shows to latest movies to latest series
+
 The Movie DB: movie data fetcher in React Native
 
 Movie DB app uses fetch to get trending movies data from TMDB apis and displays in a well managed manner inside the app.
